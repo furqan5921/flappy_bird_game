@@ -13,7 +13,6 @@ A simple Flappy Bird clone built using React.js. The game includes animations, c
 - Score tracking system
 - Game over detection
 - Responsive UI
-- Sound effects for jump, score, and game over
 
 ## 📸 Screenshots
 
