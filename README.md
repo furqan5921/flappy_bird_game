@@ -22,11 +22,11 @@ A simple Flappy Bird clone built using React.js. The game includes animations, c
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/furqan5921/flappy_bird_game.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd your-repo-name
+   cd flappy_bird_game
    ```
 3. Install dependencies:
    ```sh
