@@ -4,7 +4,7 @@ A simple Flappy Bird clone built using React.js. The game includes animations, c
 
 ## 🎮 Live Demo
 
-[Play the Game](your-deployment-url-here)
+[Play the Game](https://flappy-bird-game-3ia1k2y43-furqan5921s-projects.vercel.app/)
 
 ## 🚀 Features
 
